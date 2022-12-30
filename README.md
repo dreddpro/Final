@@ -145,5 +145,14 @@
 ## Результаты
 В результате получены данные по трем витринам за период четырех дней. Данные результаты сохранены в папку Vitrina.
 
+corporate_payments
+![corporate_payments](Screenshot/corporate_payments.png)
+
+corporate_account
+![corporate_account](Screenshot/corporate_account.png)
+
+corporate_info
+![corporate_info](Screenshot/corporate_info.png)
+
 
 
